@@ -1,2 +1,1 @@
-# Scripts-for-Linux
-My scripts for linux environment
+Collection of scripts only
